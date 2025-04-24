@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# pixel-gaming
+Cool little *pixelated* theme for gaming and retro style!
