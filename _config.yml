@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: pixel-gaming
+description: "Pixel retro style"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
